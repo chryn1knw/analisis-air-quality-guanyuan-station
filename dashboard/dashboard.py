@@ -5,7 +5,7 @@ import seaborn as sns
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 sns.set(style='dark')
-#
+
 def load_data():
     df = pd.read_csv("./dashboard/main_data.csv")
     df['date'] = pd.to_datetime(df[['year', 'month', 'day']])
