@@ -30,6 +30,3 @@ streamlit run dashboard.py
 
 ## Penggunaan
 Setelah menyiapkan lingkungan, jalankan aplikasi Streamlit untuk menampilkan analisis kualitas udara dalam bentuk visualisasi interaktif.
-
-## Lisensi
-Lisensi proyek ini adalah MIT. Anda bebas menggunakan dan memodifikasi proyek ini sesuai kebutuhan.
