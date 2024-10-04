@@ -1,4 +1,8 @@
-# Dicoding Collection Dashboard ✨
+# Proyek Analisis Data Kualitas Udara
+
+## Deskripsi
+
+Proyek ini bertujuan untuk melakukan analisis kualitas udara di Guanyuan menggunakan data polutan dan faktor meteorologi. Dengan menggunakan berbagai metode analisis data, kita mengeksplorasi faktor-faktor yang memengaruhi kualitas udara dan memberikan visualisasi yang bermanfaat.
 
 ## Setup Environment - Anaconda
 
